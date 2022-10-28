@@ -42,3 +42,6 @@ chcp 65001
 ```
 
 来使得 cmd 编码从 gbk 转为 utf-8 
+
+[**vim的简单使用**](./others/vim_simple_use.md)
+[**git的简单使用**](./others/git_simple_use.md)
