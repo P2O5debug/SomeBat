@@ -45,6 +45,8 @@ chcp 65001
 
 [**cmd的简单使用**](./others/cmd_simple_use.md)
 
+[**正则表达式的简单使用**](./others/regex_simple_use.md)
+
 [**vim的简单使用**](./others/vim_simple_use.md)
 
 
