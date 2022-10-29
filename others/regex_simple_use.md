@@ -77,3 +77,11 @@
     若是我直接用<.+>去匹配，则会把整段文字选中，因为第一个span前面<和最后一个span后面>的内容也符合条件,优先匹配最多，称为贪婪匹配。
     将<.+>改为<.+?>由贪婪匹配改为懒惰匹配，即可匹配需要的内容。
 ```
+
+1. 正则表达式30分钟入门教程 作者: deerchao https://deerchao.cn/tutorials/regex/regex.htm
+2. Regex tutorial — A quick cheatsheet by examples (英文) 作者: Jonny Fox https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+3. Regular Expressions Tutorial (英文) https://www.regular-expressions.info/tutorial.html
+4. 正则表达式在线测试工具：https://regex101.com/
+5. https://github.com/ziishaned/learn-regex/tree/master/translations
+6. https://regexlearn.com/zh-cn/
+
