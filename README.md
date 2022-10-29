@@ -43,6 +43,8 @@ chcp 65001
 
 来使得 cmd 编码从 gbk 转为 utf-8 
 
+[**cmd的简单使用**](./others/cmd_simple_use.md)
+
 [**vim的简单使用**](./others/vim_simple_use.md)
 
 
