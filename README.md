@@ -45,9 +45,19 @@ chcp 65001
 
 [**cmd的简单使用**](./others/cmd_simple_use.md)
 
+[**cmd的进阶使用**](./others/cmd_complex_use.md)
+
+[**cmd的高级使用**](./others/cmd_hard_use.md)
+> 从 批处理之家 复制过来的
+
+[**adb的简单使用**](./others/adb_simple_use.md)
+
 [**正则表达式的简单使用**](./others/regex_simple_use.md)
+> 知乎上的教程
+
 
 [**vim的简单使用**](./others/vim_simple_use.md)
 
 
 [**git的简单使用**](./others/git_simple_use.md)
+
